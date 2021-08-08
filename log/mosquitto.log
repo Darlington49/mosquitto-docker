@@ -1,0 +1,93 @@
+1626271627: mosquitto version 2.0.11 starting
+1626271627: Config loaded from /mosquitto/config/mosquitto.conf.
+1626271627: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1626271627: Create a configuration file which defines a listener to allow remote access.
+1626271627: For more details see https://mosquitto.org/documentation/authentication-methods/
+1626271627: Opening ipv4 listen socket on port 1883.
+1626271627: Opening ipv6 listen socket on port 1883.
+1626271627: Error: Address not available
+1626271627: mosquitto version 2.0.11 running
+1626271801: mosquitto version 2.0.11 terminating
+1626271802: mosquitto version 2.0.11 starting
+1626271802: Config loaded from /mosquitto/config/mosquitto.conf.
+1626271802: Error creating listener: Name does not resolve.
+1626271804: mosquitto version 2.0.11 starting
+1626271804: Config loaded from /mosquitto/config/mosquitto.conf.
+1626271804: Error creating listener: Name does not resolve.
+1626271805: mosquitto version 2.0.11 starting
+1626271805: Config loaded from /mosquitto/config/mosquitto.conf.
+1626271805: Error creating listener: Name does not resolve.
+1626271806: mosquitto version 2.0.11 starting
+1626271806: Config loaded from /mosquitto/config/mosquitto.conf.
+1626271806: Error creating listener: Name does not resolve.
+1626271807: mosquitto version 2.0.11 starting
+1626271807: Config loaded from /mosquitto/config/mosquitto.conf.
+1626271807: Error creating listener: Name does not resolve.
+1626271810: mosquitto version 2.0.11 starting
+1626271810: Config loaded from /mosquitto/config/mosquitto.conf.
+1626271810: Error creating listener: Name does not resolve.
+1626271814: mosquitto version 2.0.11 starting
+1626271814: Config loaded from /mosquitto/config/mosquitto.conf.
+1626271814: Error creating listener: Name does not resolve.
+1626271821: mosquitto version 2.0.11 starting
+1626271821: Config loaded from /mosquitto/config/mosquitto.conf.
+1626271821: Error creating listener: Name does not resolve.
+1626271835: mosquitto version 2.0.11 starting
+1626271835: Config loaded from /mosquitto/config/mosquitto.conf.
+1626271835: Error creating listener: Name does not resolve.
+1626271861: mosquitto version 2.0.11 starting
+1626271861: Config loaded from /mosquitto/config/mosquitto.conf.
+1626271861: Error creating listener: Name does not resolve.
+1626271887: mosquitto version 2.0.11 starting
+1626271887: Config loaded from /mosquitto/config/mosquitto.conf.
+1626271887: Error creating listener: Name does not resolve.
+1626271888: mosquitto version 2.0.11 starting
+1626271888: Config loaded from /mosquitto/config/mosquitto.conf.
+1626271888: Error creating listener: Name does not resolve.
+1626271889: mosquitto version 2.0.11 starting
+1626271889: Config loaded from /mosquitto/config/mosquitto.conf.
+1626271889: Error creating listener: Name does not resolve.
+1626271890: mosquitto version 2.0.11 starting
+1626271890: Config loaded from /mosquitto/config/mosquitto.conf.
+1626271890: Error creating listener: Name does not resolve.
+1626271891: mosquitto version 2.0.11 starting
+1626271891: Config loaded from /mosquitto/config/mosquitto.conf.
+1626271891: Error creating listener: Name does not resolve.
+1626271894: mosquitto version 2.0.11 starting
+1626271894: Config loaded from /mosquitto/config/mosquitto.conf.
+1626271894: Error creating listener: Name does not resolve.
+1626271898: mosquitto version 2.0.11 starting
+1626271898: Config loaded from /mosquitto/config/mosquitto.conf.
+1626271898: Error creating listener: Name does not resolve.
+1626271905: mosquitto version 2.0.11 starting
+1626271905: Config loaded from /mosquitto/config/mosquitto.conf.
+1626271905: Error creating listener: Name does not resolve.
+1626271919: mosquitto version 2.0.11 starting
+1626271919: Config loaded from /mosquitto/config/mosquitto.conf.
+1626271919: Error creating listener: Name does not resolve.
+1626271945: mosquitto version 2.0.11 starting
+1626271945: Config loaded from /mosquitto/config/mosquitto.conf.
+1626271945: Error creating listener: Name does not resolve.
+1626271997: mosquitto version 2.0.11 starting
+1626271997: Config loaded from /mosquitto/config/mosquitto.conf.
+1626271997: Error creating listener: Name does not resolve.
+1626272027: mosquitto version 2.0.11 starting
+1626272027: Config loaded from /mosquitto/config/mosquitto.conf.
+1626272027: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1626272027: Create a configuration file which defines a listener to allow remote access.
+1626272027: For more details see https://mosquitto.org/documentation/authentication-methods/
+1626272027: Opening ipv4 listen socket on port 1883.
+1626272027: Opening ipv6 listen socket on port 1883.
+1626272027: Error: Address not available
+1626272027: mosquitto version 2.0.11 running
+1626272127: mosquitto version 2.0.11 terminating
+1626272182: mosquitto version 2.0.11 starting
+1626272182: Config loaded from /mosquitto/config/mosquitto.conf.
+1626272182: Starting in local only mode. Connections will only be possible from clients running on this machine.
+1626272182: Create a configuration file which defines a listener to allow remote access.
+1626272182: For more details see https://mosquitto.org/documentation/authentication-methods/
+1626272182: Opening ipv4 listen socket on port 1883.
+1626272182: Opening ipv6 listen socket on port 1883.
+1626272182: Error: Address not available
+1626272182: mosquitto version 2.0.11 running
+1626272242: mosquitto version 2.0.11 terminating
